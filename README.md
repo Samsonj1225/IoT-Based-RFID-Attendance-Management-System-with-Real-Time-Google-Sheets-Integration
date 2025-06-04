@@ -42,10 +42,7 @@ ECE#
 
 Steps for RFID_to_Google_Sheets (Sending Data to Sheet):
 1.	Open the RFID_to_Google_Sheets Arduino File.
-2.	Replace the placeholders with:
-	Your Wi-Fi SSID
-	Your Wi-Fi Password
-	The GScriptID (Web App URL) from earlier
+2.	Replace the placeholders with: Your Wi-Fi SSID, Your Wi-Fi Password, The GScriptID (Web App URL) from earlier
 3.	Upload the code to your ESP8266/ESP32 board.
 4.	When a tag is scanned, the data will be fetched from the card and sent to Google Sheets via the Web App.
 5.	The real time data entries can be viewed in the corresponding columns. 
