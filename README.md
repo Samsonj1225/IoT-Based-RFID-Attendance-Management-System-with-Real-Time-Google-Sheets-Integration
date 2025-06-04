@@ -21,8 +21,6 @@ Copy and paste this ID into the App Script code (Line 2).
 12.	Click Deploy and authorize the permissions.
 13.	Copy the Web App URL .
 
-
-
 Steps for RFID_Data_Writing (Writing Data to Card):
 1.	Open the RFID_Data_Writing Arduino File.
 2.	Connect the RFID reader to your ESP8266/ESP32 board and plug the board into your PC via USB.
@@ -38,7 +36,6 @@ ECE#
 3rd Year#
 8.	Once data is written and confirmed in the Serial Monitor, remove the tag.
 9.	Repeat for the next RFID card.
-
 
 
 Steps for RFID_to_Google_Sheets (Sending Data to Sheet):
