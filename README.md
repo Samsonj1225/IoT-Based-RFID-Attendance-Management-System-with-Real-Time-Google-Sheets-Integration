@@ -13,7 +13,8 @@ Roll Number | Name | Department | Year | Timestamp
 6.	Delete the default code in the editor and paste the provided App Script code.
 7.	Now go to your spreadsheet that you have create in your sheet URL, find the ID between /spreadsheets/d/ and /edit:
  https://docs.google.com/spreadsheets/d/**YOUR_SHEET_ID**/edit
- Copy and paste this ID into the App Script code (Line 2).
+
+Copy and paste this ID into the App Script code (Line 2).
 8.	Click the Save icon in the Apps Script editor.
 9.	Click on Deploy > New deployment.
 10.	Select “Web app” as the deployment type.
